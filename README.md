@@ -7,6 +7,7 @@ To recreate the same environment, type :
 
 To install a package, type :
     conda install <package>
-    
+
 To save the environment after installing packages, type :
     conda env export > environment.yml
+    
